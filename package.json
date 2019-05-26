@@ -1,0 +1,18 @@
+{
+  "name": "chatspaceserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@includable/topics": "^1.4.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "peer": "^0.2.10",
+    "socket.io": "^2.2.0"
+  }
+}
